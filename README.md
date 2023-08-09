@@ -18,7 +18,7 @@
 
 ---
 
-##### Some fun stats from my public GitHub account
+##### Some fun stats from my Personal GitHub account
 
 <a href="https://github.com/blowsie">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blowsie&theme=vue" />
