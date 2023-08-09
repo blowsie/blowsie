@@ -20,9 +20,14 @@
 
 ##### Some fun stats from my public GitHub account
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/blowsie">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blowsie&theme=vue" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/blowsie">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=vue" />
+</a>
+
+##### StackOverflow (Top 1%)
+<a href="https://stackoverflow.com/users/370286/blowsie">
+  <img width="200" align="center" src="https://raw.githubusercontent.com/blowsie/stackoverflow-badge/master/stackoverflow-badge.svg" />
 </a>
